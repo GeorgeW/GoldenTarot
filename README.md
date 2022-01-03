@@ -1,3 +1,3 @@
 # Golden Tarot Card Reader
 
-## Made with react.js
+## Made with react.js and firebase
