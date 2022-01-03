@@ -1,0 +1,9 @@
+{
+    "emmet.includeLanguages": {
+  
+      "javascript": "javascriptreact"
+    },
+    "workbench.colorTheme": "Palenight Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.preferredDarkColorTheme": "codeSTACKr Theme (Muted)"
+  }
